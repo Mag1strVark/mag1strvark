@@ -18,12 +18,15 @@
 <h3 align="left">✨&nbsp; Языки и инструменты:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<h3 align="left">💻 Codewars:</h3>
+<details>
+  <summary><b>📕 &nbsp;GitHub Репозитории:</b></summary>
 
-![codewars](https://www.codewars.com/users/Mag1strVark/badges/large)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mag1strvark&repo=crm-66bit&bg_color=382f2f&text_color=fff&title_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mag1strvark&repo=scheduler&bg_color=382f2f&text_color=fff&title_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mag1strvark&repo=vite-react&bg_color=382f2f&text_color=fff&title_color=fff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📊 &nbsp;**На этой неделе я посвятил свое время**
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mag1strvark&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
 
 <details>
   <summary><b>⚙️ GitHub статистика:</b></summary>
@@ -35,5 +38,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mag1strvark&theme=highcontrast" alt="mag1strvark" /></p>
 
 </details>
+
+<h3 align="left">💻 Codewars:</h3>
+
+![codewars](https://www.codewars.com/users/Mag1strVark/badges/large)
+
+
+### 📊 &nbsp;**На этой неделе я посвятил свое время**
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mag1strvark&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Footer](assets/footer.svg)
