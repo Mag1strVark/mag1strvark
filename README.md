@@ -24,6 +24,8 @@
 ![codewars](https://www.codewars.com/users/Mag1strVark/badges/large)
 
 <h3 align="left">⚙️ GitHub статистика:</h3>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mag1strvark)](https://github.com/anuraghazra/github-readme-stats)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mag1strvark&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="mag1strvark" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mag1strvark&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="mag1strvark" /></p>
