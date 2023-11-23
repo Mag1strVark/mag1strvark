@@ -1,9 +1,14 @@
 ![MasterHead](assets/header.svg)
-<h1 align="center">Привет 👋, Меня зовут Игорь!</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mag1strvark&label=Profile%20views&color=ff0019&style=flat" alt="mag1strvark" /> </p>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Привет+👋+всем;+Меня+зовут+Игорь!;" />
+</h1>
+
 <h3 align="center">FullStack-разработчик из России</h3>
+<br/>
 <img align="right" alt="icon" width="300" src="https://media.giphy.com/media/gzROsII7swwrm/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mag1strvark&label=Profile%20views&color=ff0019&style=flat" alt="mag1strvark" /> </p>
 
 - 🔭 В настоящее время я работаю над [crm-66bit](https://github.com/Mag1strVark/crm-66bit)
 
