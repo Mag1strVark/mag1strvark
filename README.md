@@ -6,9 +6,6 @@
 </h1>
 
 
-<h3 align="center">FullStack-разработчик из России</h3>
-
-
 <img align="right" alt="icon" width="300" src="https://media.giphy.com/media/gzROsII7swwrm/giphy.gif">
 
 
