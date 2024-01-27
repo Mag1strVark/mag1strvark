@@ -8,9 +8,6 @@
 
 <img align="right" alt="icon" width="300" src="https://media.giphy.com/media/gzROsII7swwrm/giphy.gif">
 
-
-- 🔭 В настоящее время я работаю над [crm-66bit](https://github.com/Mag1strVark/crm-66bit)
-
 - 🌱 В настоящее время я изучаю **React, Next js, Express js, Nest js**
 
 - 👯 Я ищу возможность сотрудничества по следующим направлениям **Frontend, Backend**
