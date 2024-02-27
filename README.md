@@ -18,7 +18,7 @@
 
 <img align="right" alt="icon" width="300" src="https://media.giphy.com/media/gzROsII7swwrm/giphy.gif">
 
-<h3 align="left"><img align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"  width="30"> Codewars:</h3>
+<h3 align="left"><img align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"  width="30"> Codewars</h3>
 
 ![codewars](https://www.codewars.com/users/Mag1strVark/badges/large)
 
@@ -26,7 +26,7 @@
 ### 📊 &nbsp;**На этой неделе я посвятил свое время**
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mag1strvark&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📕 &nbsp;**Связь со мной:**
+### 📕 &nbsp;**Связь со мной**
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/vlas01ff)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/6iva9)
 
